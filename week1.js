@@ -1,0 +1,1 @@
+$(#anwser1).hide()
